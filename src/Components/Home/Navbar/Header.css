@@ -1,0 +1,29 @@
+.primary{
+    background-color: rgba(3, 28, 48, 0.938);
+   
+    
+}
+
+.drop:hover{
+    background-color: rgb(131, 151, 224);
+}
+.dropdown Item{
+    color: rgb(166, 176, 207);
+}
+.div{
+    display: flex;
+}
+.div Button{
+   
+    background-color: rgba(6, 17, 51, 0.829);
+}
+Nav {
+color: black;
+    
+}
+span{
+    color: brown;
+}
+
+
+

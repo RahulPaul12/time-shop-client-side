@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32ebda23.chunk.css",
+    "main.js": "/static/js/main.e6dd3959.chunk.js",
+    "main.js.map": "/static/js/main.e6dd3959.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0e82dca7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0e82dca7.js.map",
+    "static/js/2.095f1a99.chunk.js": "/static/js/2.095f1a99.chunk.js",
+    "static/js/2.095f1a99.chunk.js.map": "/static/js/2.095f1a99.chunk.js.map",
+    "static/js/3.ca2eefec.chunk.js": "/static/js/3.ca2eefec.chunk.js",
+    "static/js/3.ca2eefec.chunk.js.map": "/static/js/3.ca2eefec.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.32ebda23.chunk.css.map": "/static/css/main.32ebda23.chunk.css.map",
+    "static/js/2.095f1a99.chunk.js.LICENSE.txt": "/static/js/2.095f1a99.chunk.js.LICENSE.txt",
+    "static/media/depositphotos_246603700-stock-illustration-error-404-page-layout-vector.9c90e931.jpg": "/static/media/depositphotos_246603700-stock-illustration-error-404-page-layout-vector.9c90e931.jpg",
+    "static/media/images.0b19b923.jpg": "/static/media/images.0b19b923.jpg",
+    "static/media/images2.7359d9b0.jpg": "/static/media/images2.7359d9b0.jpg",
+    "static/media/wp2168277.1963e548.jpg": "/static/media/wp2168277.1963e548.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e82dca7.js",
+    "static/js/2.095f1a99.chunk.js",
+    "static/css/main.32ebda23.chunk.css",
+    "static/js/main.e6dd3959.chunk.js"
+  ]
+}
